@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">WallpaperAdmin</string>
+    <string name="todo">TODO</string>
+
+
+    <string-array name="category">
+        <item>Nature</item>
+        <item>Cartoon</item>
+        <item>Abstract</item>
+        <item>Classic</item>
+        <item>Colorful</item>
+        <item>Animals</item>
+        <item>Fashion</item>
+        <item>Love</item>
+        <item>Games</item>
+        <item>Dark</item>
+        <item>Celebrity</item>
+        <item>Sports</item>
+    </string-array>
 </resources>
